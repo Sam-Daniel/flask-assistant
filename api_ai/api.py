@@ -2,7 +2,7 @@ import os
 import requests
 import json
 
-from . import logger
+from  import logger
 from .models import Intent, Entity
 
 
